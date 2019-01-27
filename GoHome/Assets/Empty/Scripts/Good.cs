@@ -45,7 +45,7 @@ public class Good : MonoBehaviour
         if (coll.gameObject.tag == "Wall")
         {
            
-          
+
             GameObject.Destroy(this.gameObject);
           
         }
